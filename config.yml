@@ -1,0 +1,11 @@
+# Falls kein Event -> auf false stellen, um recourcen zu sparen
+Event: false
+# Beispiel mod: 1.2 -> 20% Mehr Erfahrung
+Global-Event-Modifier:
+    EXP: 1.0
+    Money: 1.0
+# Wird zusätzlich zu global verrechnet
+Premium-Modifier:
+    Permission: job.premium
+    EXP: 1.0
+    Money: 1.0

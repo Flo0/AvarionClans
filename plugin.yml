@@ -1,0 +1,8 @@
+name: AvarionClans
+description: Clans Plugin für Avarioncraft
+main: com.avarioncraft.Clans.core.AvarionClans
+version: 1.0
+website: https://avarioncraft.de/
+author: [Gestankbratwurst, crysis992]
+depend: [CT-Core, Vault]
+api-version: 1.13
