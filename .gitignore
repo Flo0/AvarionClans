@@ -1,3 +1,6 @@
-.classpath
-.settings
+/target/
 /bin/
+/libs/
+/.settings
+/.project
+.classpath
